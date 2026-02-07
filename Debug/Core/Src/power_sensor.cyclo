@@ -1,0 +1,6 @@
+../Core/Src/power_sensor.c:29:6:errorCall	1
+../Core/Src/power_sensor.c:34:6:initialize_all_ina	1
+../Core/Src/power_sensor.c:41:6:initialize_ina	6
+../Core/Src/power_sensor.c:113:10:readVal	1
+../Core/Src/power_sensor.c:129:6:debugVals	1
+../Core/Src/power_sensor.c:142:6:HAL_GPIO_EXTI_Callback	4

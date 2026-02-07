@@ -1,0 +1,6 @@
+../Core/Src/power_sensor.c:29:6:errorCall	4	static
+../Core/Src/power_sensor.c:34:6:initialize_all_ina	48	static
+../Core/Src/power_sensor.c:41:6:initialize_ina	88	static
+../Core/Src/power_sensor.c:113:10:readVal	40	static
+../Core/Src/power_sensor.c:129:6:debugVals	16	static
+../Core/Src/power_sensor.c:142:6:HAL_GPIO_EXTI_Callback	24	static,ignoring_inline_asm

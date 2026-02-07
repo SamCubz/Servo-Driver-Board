@@ -1,0 +1,5 @@
+../Core/Src/i2c_peripheral.c:28:6:process_data	2
+../Core/Src/i2c_peripheral.c:51:6:HAL_I2C_ListenCpltCallback	1
+../Core/Src/i2c_peripheral.c:55:6:HAL_I2C_AddrCallback	2
+../Core/Src/i2c_peripheral.c:64:6:HAL_I2C_SlaveRxCpltCallback	2
+../Core/Src/i2c_peripheral.c:81:6:HAL_I2C_ErrorCallback	1

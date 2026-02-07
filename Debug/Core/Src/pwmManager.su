@@ -1,0 +1,5 @@
+../Core/Src/pwmManager.c:29:6:start_servo	16	static
+../Core/Src/pwmManager.c:33:6:servo_init	24	static
+../Core/Src/pwmManager.c:43:10:angle_to_counts	24	static
+../Core/Src/pwmManager.c:58:6:set_pulse	32	static
+../Core/Src/pwmManager.c:80:6:update_servos	24	static
