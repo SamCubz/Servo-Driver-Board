@@ -1,0 +1,20 @@
+# STM32CubeIDE
+Debug/
+Release/
+*.launch
+.settings/
+*.iocbak
+
+# Build artifacts
+*.o
+*.elf
+*.map
+*.lst
+*.d
+*.su
+
+# OS / Editor junk
+.vscode/
+*.swp
+*~
+.DS_Store
